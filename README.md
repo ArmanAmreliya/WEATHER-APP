@@ -9,5 +9,6 @@ FETCHES AND DISPLAYS WEATHER
 DATA FROM AN API BASED ON USER
 INPUT.<BR/>
 OUTPUT
+![Image](https://github.com/user-attachments/assets/06465c54-5326-4bd3-8cb7-0f961f9cd192)
 
 
