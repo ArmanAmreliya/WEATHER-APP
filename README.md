@@ -1,8 +1,12 @@
-# React + Vite
+<H1> WEATHER-APP </H1>
+COMPANY: CODTECH IT SOLUTIONS <BR/>
+NAME: ARMAN H AMRELIYA<BR/>
+INTERN ID: REACT.JS WEB DEVELOPMENT<BR/>
+DURATION: 4 WEEKS<BR/>
+TASK DETAILS:<BR/>
+CREATE A WEATHER APP THAT
+FETCHES AND DISPLAYS WEATHER
+DATA FROM AN API BASED ON USER
+INPUT.
+OUTPUT
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
